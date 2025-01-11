@@ -1,10 +1,10 @@
-#Sports Tournament Management System
+# Sports Tournament Management System
 
-##Project Description:
+## Project Description:
 
 The Sports Tournament Management System is a comprehensive solution designed to streamline the management of sports tournaments by handling teams, players, matches, scores, and points tracking. This system provides an efficient backend for managing tournaments and player performance using Python, Flask, and Oracle Database.
 
-##Key Features:
+## Key Features:
 
 Team Management:
 
@@ -40,7 +40,7 @@ Database Integration:
 
 Oracle Database ensures secure, consistent, and reliable storage for tournament data.
 
-##Technologies Used:
+## Technologies Used:
 
 Backend:
 
@@ -58,7 +58,7 @@ oracledb: Oracle database connectivity.
 
 Flask: Web framework for API development.
 
-##How It Works:
+## How It Works:
 
 Database Connectivity:
 
@@ -80,7 +80,7 @@ Points and rankings are calculated based on match results.
 
 Team standings are dynamically updated and stored for quick retrieval.
 
-##API Endpoints:
+## API Endpoints:
 
 Player Management:
 
@@ -104,7 +104,7 @@ Points Table Management:
 
 GET /api/points_table: Retrieve the current points table.
 
-##Use Cases:
+## Use Cases:
 
 Tournament Management:
 
@@ -114,7 +114,7 @@ Performance Analysis:
 
 Provides insights into player and team performance through dynamic ranking and points tables.
 
-##Future Enhancements:
+## Future Enhancements:
 
 Enhanced Analytics:
 
@@ -128,6 +128,6 @@ Multi-Tournament Support:
 
 Expansion to support multiple concurrent tournaments.
 
-##Conclusion:
+## Conclusion:
 
 The Sports Tournament Management System is a robust and scalable solution for managing sports tournaments and tracking team performance. It provides a solid foundation for expanding into more advanced sports management features, making it suitable for professional leagues, recreational tournaments, and analytics-driven applications.
