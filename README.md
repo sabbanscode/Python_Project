@@ -18,21 +18,11 @@ Database Integration:1.Oracle Database ensures secure, consistent, and reliable 
 
 ## Technologies Used:
 
-Backend:
+Backend: 1.Python: Core programming language. 2.Flask: Lightweight web framework for building APIs.
 
-Python: Core programming language.
+Database: 1.Oracle Database: Reliable relational database for secure data storage.
 
-Flask: Lightweight web framework for building APIs.
-
-Database:
-
-Oracle Database: Reliable relational database for secure data storage.
-
-Libraries:
-
-oracledb: Oracle database connectivity.
-
-Flask: Web framework for API development.
+Libraries: 1.oracledb: Oracle database connectivity. 2.Flask: Web framework for API development.
 
 ## How It Works:
 
